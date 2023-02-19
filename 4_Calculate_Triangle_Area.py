@@ -26,8 +26,7 @@ Problem Breakdown:
 Execute the Plan
 
 Review:
-- I learned that in order to control the precision of the output,
-I have to round built-in functions to control how many decimal places the output is rounded to.
+- I learned that in order to control the precision of the output,I can use the round built-in function to control how many decimal places the output is rounded to.
 
 
 '''
